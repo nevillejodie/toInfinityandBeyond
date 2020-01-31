@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://lh3.googleusercontent.com/proxy/n7gcSqN7IGmJgxyjSqiwdQw6GZ_rIQIErTMvnLCvlG-r0WVqmBckyHmRngxCCkhLOrC-W7teZec11ppm79BagMkDwZtglK2kwLhilO-vOg");
+  background-color: #cccccc;
+  background-size: cover;
+}
+
+button {
+  height: 300px;
+  width: 400px;
+}
